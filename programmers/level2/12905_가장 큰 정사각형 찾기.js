@@ -44,7 +44,7 @@
  
  */
 
- function solution(board)
+function solution(board)
 {
     for (let ix = 1, ixLen = board.length; ix < ixLen; ix++) {
         for (let iy = 1, iyLen = board[ix].length; iy < iyLen; iy++) {
@@ -55,7 +55,7 @@
             }
         }
     }
-    
+
     let max = Math.max(...board.map(v => Math.max(...v)));
     return max * max;
 }
@@ -70,7 +70,7 @@ function solution(board)
             board[ix][iy] = Math.min(board[ix][iy - 1], board[ix - 1][iy], board[ix - 1][iy - 1]) + 1;
         }
     }
-    
+
     let max = Math.max(...board.map(v => Math.max(...v)));
     return max * max;
 }
