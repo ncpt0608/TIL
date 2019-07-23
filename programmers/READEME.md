@@ -63,3 +63,8 @@
 * [탑](https://github.com/ncpt0608/TIL/blob/master/programmers/level2/42588_%ED%83%91.js)
 * [타겟 넘버](https://github.com/ncpt0608/TIL/blob/master/programmers/level2/43165_%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.js)
 * [스킬트리](https://github.com/ncpt0608/TIL/blob/master/programmers/level2/49993_%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.js)
+
+## 다시 풀기
+### Level 2
+* [가장 큰 수](https://github.com/ncpt0608/TIL/blob/master/programmers/level2/42746_%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.js)
+* [H-Index](https://github.com/ncpt0608/TIL/blob/master/programmers/level2/42747_H-Index.js)
