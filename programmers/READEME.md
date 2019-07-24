@@ -52,6 +52,7 @@
 * [행렬의 곱셈](https://github.com/ncpt0608/TIL/blob/master/programmers/level2/12949_%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.js)
 * [JadenCase 문자열 만들기](https://github.com/ncpt0608/TIL/blob/master/programmers/level2/12951_JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
 * [N개의 최소공배수](https://github.com/ncpt0608/TIL/blob/master/programmers/level2/12953_N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.js)
+* [짝지어 제거하기](https://github.com/ncpt0608/TIL/blob/master/programmers/level2/12973_%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.js)
 * [소수 만들기](https://github.com/ncpt0608/TIL/blob/master/programmers/level2/12977_%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
 * [점프와 순간 이동](https://github.com/ncpt0608/TIL/blob/master/programmers/level2/12980_%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99.js)
 * [영어 끝말잇기](https://github.com/ncpt0608/TIL/blob/master/programmers/level2/12981_%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.js)
